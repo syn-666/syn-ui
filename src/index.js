@@ -5,5 +5,5 @@ function asd() {
 
 asd();
 
-throw 'sadasd';
+throw 'sadas2323d';
 
