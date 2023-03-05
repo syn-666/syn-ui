@@ -5,5 +5,5 @@ function asd() {
 
 asd()
 
-throw '123';
+// throw '123';
 
