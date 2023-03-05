@@ -1,6 +1,6 @@
 module.exports = {
   "lint-staged": {
-    "src/**/*.ts?(x)": [
+    "src/**/*.{tsx,ts,js,jsx}": [
       "prettier --write",
       "eslint --fix",
       "git add"
