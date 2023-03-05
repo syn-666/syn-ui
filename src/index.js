@@ -1,9 +1,9 @@
 
-function asd() {
-  console.log("asd")
-}
+// function asd() {
+//   console.log("asd")
+// }
 
-asd();
+// asd();
 
-// throw 'sadasdasddas2323d';
+// // throw 'sadasdasddas2323d';
 
