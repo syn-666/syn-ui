@@ -24,7 +24,7 @@
     "typescript": "^4.9.5"
   },
   "lint-staged": {
-    "src/**/*.ts?(x)": [
+    "src/**/*.{js,jsx,ts,tsx}": [
       "prettier --write",
       "eslint --fix",
       "jest --bail --findRelatedTests",
