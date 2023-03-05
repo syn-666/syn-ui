@@ -3,8 +3,7 @@ function asd() {
   console.log("asd")
 }
 
-asd()
+asd();
 
-throw '123';
-throw '456';
+throw 'sadasd';
 
